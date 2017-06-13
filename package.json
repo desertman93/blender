@@ -4,7 +4,7 @@
   "license": "MIT",
     "engines": {
     "node": "7.x",
-    "npm": "5.x"
+    "npm": "4.x"
   },
   "authors": [
     "Sebastian De Deyne <sebastian@spatie.be>",
